@@ -21,9 +21,9 @@
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Establishing _[Data Model](https://github.com/ShashwatBhardwaj10/AtliQ-Hardwares-Finance-Analytics-Project/blob/main/Dala%20Model.png) relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x]	Utilizing _[DAX Measures](https://github.com/ShashwatBhardwaj10/AtliQ-Hardwares-Finance-Analytics-Project/blob/main/DAX%20Measures.png) to create calculated columns.
 
 ## Soft Skills:
 - [x]	Refined understanding of Finance Reports
