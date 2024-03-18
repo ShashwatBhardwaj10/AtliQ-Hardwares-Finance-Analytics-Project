@@ -6,7 +6,7 @@
 
     **2.** Create Profit and Loss (P&L) report by _[Markets in 2021](https://github.com/ShashwatBhardwaj10/AtliQ-Hardwares-Finance-Analytics-Project/blob/main/P%20%26%20L%20for%20Markets%20in%202021.pdf)_
 
-    **3.** Create Profit and Loss (P&L) report by _[Months](https://github.com/ShashwatBhardwaj10/AtliQ-Hardwares-Finance-Analytics-Project/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)_ 
+    **3.** Create Profit and Loss (P&L) report by _[Fiscal Months](https://github.com/ShashwatBhardwaj10/AtliQ-Hardwares-Finance-Analytics-Project/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)_ 
 
     **4.** Create Gross Margin Percentage (GM%) report by _[Quarters(sub_zone)](https://github.com/ShashwatBhardwaj10/AtliQ-Hardwares-Finance-Analytics-Project/blob/main/GM%25%20%20by%20Quarters%20(Sub_Zone).pdf)_
 
